@@ -1,3 +1,3 @@
-# python-practicing-Day-19
-Day 19 Python practice programs.
+# python-practicing-Day-22
+Day 22 Python practice programs.
 -Floyd's triangle
